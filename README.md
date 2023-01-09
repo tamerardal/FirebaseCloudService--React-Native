@@ -8,7 +8,7 @@ Postman ile gönderim yapmak için;
 2) URL kısmına https://fcm.googleapis.com/fcm/send URL'ini giriniz.
 3) Add Headers dedikten sonra Authorization: key=<server_key> ve Content-Type: application/json olarak giriniz.
 4) Server_key öğrenmek için Firebase Console'dan project settings kısmına geldikten sonra Cloud Messagging sekmesini seçin.
-5) Son olarak body kısmına gelin, raw olarak seçim yapın, JSON'u seçin ve aşağıdaki kodu ilgili bölüme yapıştırın.
+5) Son olarak postman uygulamasında body kısmına gelin, raw olarak seçim yapın, JSON'u seçin ve aşağıdaki kodu ilgili bölüme yapıştırın.
 
 {
  "to" : "YOUR_FCM_TOKEN_WILL_BE_HERE",
