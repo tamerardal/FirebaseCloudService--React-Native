@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "113987330810",
+    "project_id": "fir-cloudservi",
+    "storage_bucket": "fir-cloudservi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113987330810:android:d2ce9ad309c757cb819f43",
+        "android_client_info": {
+          "package_name": "com.tamerardal.FirebaseCloudService"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113987330810-4ljbkmdsmujj78dsa1jjbd8muf96so8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamerardal.FirebaseCloudService",
+            "certificate_hash": "7f667e05f897b1ba9fbfb9d5d30d3bfbfe21397f"
+          }
+        },
+        {
+          "client_id": "113987330810-6j0aum3be5us39frh8q10e6kun2vs6cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tamerardal.FirebaseCloudService",
+            "certificate_hash": "3c5c532cd9ce462238c14993431a8c711200df3a"
+          }
+        },
+        {
+          "client_id": "113987330810-t0hmpjeoinuua9caolmgm5dp6tacjq5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGO_eQCgvyrifcjwj3hv3HlJc2mAh7odY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113987330810-t0hmpjeoinuua9caolmgm5dp6tacjq5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
