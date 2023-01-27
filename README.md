@@ -1,6 +1,6 @@
 # FirebaseCloudService
 
-Firebase Cloud Messagging ile bildirim gönderme uygulaması.
+Firebase Cloud Messaging ile bildirim gönderme uygulaması.
 
 Postman ile gönderim yapmak için;
 
